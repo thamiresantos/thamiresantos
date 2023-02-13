@@ -10,7 +10,7 @@
 
 - 👩🏽‍💻 Olá, meu nome é Thamires
 
-- 🌱 I’m 19 years
+- 🌱 I’m 20 years
 
 - 📚 Cursando Análise e Desenvolvimento de Sistemas - UNIFSA
 - 🎨 Desenvolvedora Front-End
