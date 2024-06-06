@@ -6,8 +6,9 @@
  <p>👩🏽‍💻 Olá, meu nome é Thamires Santos</p>
   <p>🌸 Desenvolvedora Front-End </p>
  <p>🌼 UX Designer </p>
- <p>📚 Cursando Análise e Desenvolvimento de Sistemas - UNIFSA</p>
-</p>
+<p> 📗 Cursando Engenharia de Software - UniFavip Wyden</p>
+ <p>📕 Cursando Análise e Desenvolvimento de Sistemas - UNIFSA</p>
+</p> 
 
 <p align="left">
   🤖
