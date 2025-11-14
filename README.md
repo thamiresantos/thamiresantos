@@ -1,16 +1,8 @@
 <div align="center" style="display:flex; justify-content:center; align-items:center; gap:20px;">
   
   <h1 style="margin:0; padding:0;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=900&color=FF69B4&center=false&vCenter=true&width=520&lines=Oi,+meu+nome+é+Thamires!;Desenvolvedora+Front-End;Criativa+e+Persistente" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=900&color=FF69B4&center=false&vCenter=true&width=520&lines=Oi,+sou+a+Thamires!;Desenvolvedora+Front-End;Apaixonada+por+Tecnologia💜" alt="Typing SVG" />
   </h1>
-
-
-</div>
-
----
-
-## 🌟 Sobre mim
-
   <!-- Avatar -->
   <img src="./assets/avatar.png"
        alt="Avatar Thamires"
@@ -19,6 +11,11 @@
        width="250px"
        align="right"
        style="margin-left: 25px;"> 
+
+</div>
+
+---
+## 🌟 Sobre mim
 
 - 💻 Front-End: HTML · CSS · JavaScript  
 - 📚 Estudante de **Engenharia de Software** e **ADS**
