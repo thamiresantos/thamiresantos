@@ -1,7 +1,7 @@
 <div align="center" style="display:flex; justify-content:center; align-items:center; gap:20px;">
   
   <h1 style="margin:0; padding:0;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=900&color=FF69B4&center=false&vCenter=true&width=520&lines=Oi,+sou+a+Thamires!;Desenvolvedora+Front-End;Apaixonada+por+Tecnologia💜" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=900&color=FF69B4&center=false&vCenter=true&width=520&lines=Oi,+meu+nome+é+Thamires!;Desenvolvedora+Front-End;Apaixonada+por+Tecnologia💜" alt="Typing SVG" />
   </h1>
   <!-- Avatar -->
   <img src="./assets/avatar.png"
